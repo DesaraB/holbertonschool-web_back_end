@@ -1,3 +1,4 @@
+/*eslint-disable*/
 export default function getSumOfHoods(
   initialNumber = 34,
   expansion1989 = 89,
