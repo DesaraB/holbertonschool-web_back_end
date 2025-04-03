@@ -1,4 +1,5 @@
 /*eslint-disable*/
+
 export default function getFullResponseFromAPI(success) {
 	return new Promise((resolve, reject) => {
 		const success = false;
