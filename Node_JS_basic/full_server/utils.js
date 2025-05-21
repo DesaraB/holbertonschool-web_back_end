@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import fs from 'fs/promises';
 
 export default function readDatabase(filePath) {

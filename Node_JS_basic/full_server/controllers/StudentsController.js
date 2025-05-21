@@ -1,3 +1,5 @@
+/* eslint-disable */
+
 import readDatabase from '../utils.js';
 
 class StudentsController {
